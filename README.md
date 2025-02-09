@@ -8,6 +8,12 @@ https://www.youtube.com/watch?v=35mnL1nWAWI
 
 
 
+# サンプルワールド
+以下のワールドにギミックを設置しています。  
+https://vrchat.com/home/launch?worldId=wrld_d46fb68b-6649-4c0c-aff0-c1b6dcad6e5a
+
+
+
 # 導入
 
 `ButterPlane.unitypackage` から導入してください。  
